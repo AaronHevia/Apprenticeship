@@ -1,2 +1,2 @@
 # Apprenticeship
-AI Academy Foundations Program Questions:  Summation-Squared and Covariance.
+AI Academy (NCSU) Foundations Program Questions:  Summation-Squared and Covariance.
